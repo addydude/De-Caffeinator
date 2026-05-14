@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "js-beautify": "^1.15.4"
+  },
+  "devDependencies": {
+    "@types/js-beautify": "^1.14.3"
+  }
+}
